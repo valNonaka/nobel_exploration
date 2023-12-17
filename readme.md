@@ -48,7 +48,7 @@ para melhor compreensão desenhei dois dashboards que seguirão com as conclusõ
 - podemos perceber que as principais categorias são quimica, literatura, e medicina,
 - conseguimos observar também que entre a década de 40 e 60 houve uma baixa nas taxas de premiações, retornando a crescer após a década de 80.
 - A primeira mulher a receber um premio nobel foi marie curie em 1903, na categoria de física.
-- no gráfico está listado as primeiras mulheres a ganharem o primeiro nobel em cada categoria e em qual ano.
+- no dash está listado as primeiras mulheres a ganharem o primeiro nobel em cada categoria e em qual ano.
 
 
 
