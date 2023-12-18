@@ -27,7 +27,7 @@ Por meio deste projeto, buscamos obter uma compreensão mais profunda da distrib
 
 ---
 
-Este é um projeto do datacamp, porém que não foi aceito como correto devido ao uso de diferentes métodos propóstos pelo curso, ainda sim cheguei aos mesmos resultados sem consultas as dicas, e gostaria de compartilhar esses métodos.
+Este é um projeto do datacamp, porém que não foi aceito como correto devido ao uso de diferentes métodos propóstos pelo curso, ainda sim cheguei aos mesmos resultados sem consultas e dicas, e gostaria de compartilhar esses métodos.
 
 ---
 
